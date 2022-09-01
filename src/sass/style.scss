@@ -1,0 +1,22 @@
+body {
+  background-color: #fff;
+}
+
+h1 {
+  font-size: 48px;
+  user-select: none;
+
+  span {
+    color: blue;
+  }
+}
+
+h4 {
+  color: red;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
